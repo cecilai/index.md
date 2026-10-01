@@ -3,6 +3,13 @@ Hi, I’m Cecilia. I enjoy drawing, cooking, playing sports, and working on crea
 https://www.yogurtland.com/
 [2026-09-02 22-55 1 (1).pdf](https://github.com/user-attachments/files/31819245/2026-09-02.22-55.1.1.pdf)
 
+
+
+
+https://cecilai.github.io/arduino-project.md
+
+
+
 scanner https://cecilai.github.io/spinning_2d_scanner
 
 
